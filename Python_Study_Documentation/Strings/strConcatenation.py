@@ -1,3 +1,0 @@
-#stringConcatenation
-
-print('hello' + ' ' + 'Ishan')
